@@ -4,6 +4,8 @@ A challenge for Frontend Development role at Avkara Technologies Private Limited
 This is a challenge for Django development internship.
 Django is a high level web framework that runs on Python. Read more at https://www.djangoproject.com/
 
+The instructions about this challenge will be shared on the Google meet link shared with the selected individuals. In case of any inconvenience, please contact us at kunalsoni@vmitis.com.
+
 Instructions to run this project.
 
 Prerequisites:
