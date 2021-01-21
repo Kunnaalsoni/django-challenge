@@ -6,3 +6,7 @@ class Features(models.Model):
     tag = models.CharField(max_length=64)
     description = models.TextField()
     link = models.URLField(max_length=128)
+
+    def __str__(self):
+        return self.name
+    

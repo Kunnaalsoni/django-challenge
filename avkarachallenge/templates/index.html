@@ -10,5 +10,9 @@ HomePage
 <h1>Hello World</h1>
 <p>Congratulations on running the project successfully on your machine. This file has some sample images, use them as an example for rendering images.</p>
 <img src = "{% static 'logo.png' %}" height = 300>
+{% for foo in data %}
+<p>{{ foo.name }}</p>
+<p>{{ foo.tag }}</p>
+{% endfor %}
 </body>
 </html>
